@@ -25,3 +25,12 @@ En 2008 salió al mercado el libro de Robert C. Martin: “Clean Code: A Handboo
 Bio: Carlos Obregón ha programado desde que estaba en octavo grado en lenguajes como Basic, C, C++ y Java. Desde que leyó “Clean Code” se ha convertido en un obsesionado por escribir el mejor código posible y un fuerte proponente de crear conciencia sobre el concepto en los programadores. Desde entonces ha visto el impacto positivo que su aplicación tiene tanto en proyectos “legacy” como proyectos que arrancan de cero. Actualmente se desempeña como Principal Software Engineer en Bosz Digital.
 
 Ver presentación en [Youtube](https://www.youtube.com/watch?v=W-KwnMp0v8g) y [Slides](http://slides.com/gaijinco/clean-code#/)
+
+###Redes Sociales
+[Twitter](https://twitter.com/JavaDominicano)
+[Github](https://github.com/JavaDominicano)
+[Google+](https://plus.google.com/u/0/b/102075236423677669793/102075236423677669793)
+
+###Patrocinadores
+<img src="https://pbs.twimg.com/profile_images/3289575775/dd1ccf512d974e22345ea3e18b86a37e_400x400.jpeg" width="100" height="100"><br/>
+[Comite ISC -PUCMMSTI](https://twitter.com/ComitesISC)
