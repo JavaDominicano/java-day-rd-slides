@@ -15,6 +15,7 @@ Líder de la comunidad Java de Perú (PERU JUG)
 https://pe.linkedin.com/in/joedayz
 
 Ver presentación en [Youtube](https://www.youtube.com/watch?v=cCB62LNyx7s) 
+[Descargar Aquí](slides/Scala.pptx)
 
 ###CLEAN CODE
 > Carlos Obregón
