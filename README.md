@@ -1,6 +1,7 @@
 ## Java Day República Dominicana::Presentaciones
 
 Java Day República Dominicana::Presentaciones
+[Descargar Presentación Aquí](slides/JavaDaySantiagoRD2015.pdf)
 
 ###Introducción a Scala
  > Por José Díaz
